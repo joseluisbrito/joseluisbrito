@@ -1,0 +1,17 @@
+.main-container {
+  margin-top: 50px;
+}
+h3 {
+  color: white;
+}
+p {
+  color: #ffffcc;
+}
+
+body {
+  background-color: black;
+}
+
+h4, ul li {
+  color: #ffcccc;
+}
