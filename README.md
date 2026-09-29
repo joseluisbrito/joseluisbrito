@@ -1,7 +1,12 @@
-### Hi there 👋
+# José Luis Brito Rodríguez
 
-Hello, I am a programmer, mainly working on LAMP stack.
+Gerente de Sistemas en The Grand Hotel Punta del Este (hotel 5★).
+Especializado en Oracle Hospitality (OPERA Cloud, Simphony) e
+infraestructura Linux. Docente del Taller RIA en UTEC.
 
-- 🔭 I’m currently working on Doctrine integration over my projects
-- 🌱 I’m currently learning PHPUnit
+**Stack:** PHP · Angular · TypeScript · Bash · Linux · Proxmox · Zabbix
 
+En este perfil comparto herramientas y scripts que uso en mi trabajo
+diario y proyectos de aprendizaje.
+
+[LinkedIn](https://www.linkedin.com/in/joseluisbrito)
